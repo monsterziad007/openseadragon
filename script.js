@@ -1,4 +1,4 @@
-let URL = 'https://smsbossdev.tk/public/assets/test1.dzi';
+let URL = 'https://monsterziad007.github.io/openseadragon/test1.dzi';
 fetch(URL).then(data => {
   data.text().then(function (text) {
     console.log(text);
